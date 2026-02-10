@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at School of Information Management, Nanjing University since 2025 Fall. My research interests lies in Science of Science, Technovation, and Scientometrics. Recently, I am particularly interested in the spillover-effects of research funding on the scientific carrer of scholars, and bias against interdisciplinary fundings.
+I am a graduate student at School of Information Management, Nanjing University since 2025 Fall. My research interests lies in Science of Science, Technovation, and Scientometrics. Recently, I am particularly interested in the spillover-effects of research funding on the scientific carrer of scholars, PI's behavior during the funding period, and bias against interdisciplinary fundings.
 
 I am also passionate about community service. I received official recognitions from the central government of China for my services (as a team member, and as a individual). I am currently a representative member of the Fujian Youth Volunteer Association.
 
